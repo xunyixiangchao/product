@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/table_host_height"
+        android:orientation="vertical"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp">
+
+
+        <TextView
+            android:id="@+id/tv_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:textSize="@dimen/leyou_text_size_3" />
+
+        <View
+            android:id="@+id/view_bottom"
+            android:layout_width="wrap_content"
+            android:layout_height="2dip"
+            android:layout_alignLeft="@id/tv_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignRight="@id/tv_content"
+            android:background="#00aa00"
+            android:visibility="invisible" />
+    </RelativeLayout>
+</LinearLayout>

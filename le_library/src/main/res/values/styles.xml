@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--主要字体大小颜色-->
+    <style name="textColorPrimary">
+        <item name="android:textSize">@dimen/leyou_text_size_5</item>
+        <item name="android:textColor">@color/le_color_text_primary</item>
+    </style>
+    <!--次要字体大小颜色-->
+    <style name="textColorSecondary">
+        <item name="android:textSize">@dimen/leyou_text_size_5</item>
+        <item name="android:textColor">@color/le_color_text_secondary</item>
+    </style>
+    <!--第三要字体大小颜色-->
+    <style name="textColorTertiary">
+        <item name="android:textSize">@dimen/leyou_text_size_5</item>
+        <item name="android:textColor">@color/le_color_text_tertiary</item>
+    </style>
+
+    <!--方块实心橘色按钮-->
+    <style name="le_style_button_square_default" parent="@style/Widget.AppCompat.Button.Borderless">
+        <item name="android:background">@drawable/selector_btn_square_solid_default</item>
+        <item name="android:textColor">@color/le_color_white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:minWidth">0dip</item>
+        <item name="android:paddingLeft">9dip</item>
+        <item name="android:paddingRight">9dip</item>
+    </style>
+    <!--半圆实心黄色按钮-->
+    <style name="le_style_button_yellow" parent="@style/Widget.AppCompat.Button.Borderless">
+        <item name="android:background">@drawable/selector_btn_circular_solid_yellow</item>
+        <item name="android:textColor">@drawable/selector_btn_text_black</item>
+        <item name="android:gravity">center</item>
+        <item name="android:minWidth">0dip</item>
+        <item name="android:paddingLeft">9dip</item>
+        <item name="android:paddingRight">9dip</item>
+    </style>
+    <!--半圆实心橘色按钮-->
+    <style name="le_style_button_default" parent="@style/Widget.AppCompat.Button.Borderless">
+        <item name="android:background">@drawable/selector_btn_circular_solid_default</item>
+        <item name="android:textColor">@color/le_color_white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:minWidth">0dip</item>
+        <item name="android:paddingLeft">9dip</item>
+        <item name="android:paddingRight">9dip</item>
+    </style>
+    <!--半圆空心橘色按钮-->
+    <style name="le_style_button_main" parent="@style/Widget.AppCompat.Button.Borderless">
+        <item name="android:background">@drawable/selector_btn_circular_solid_main</item>
+        <item name="android:textColor">@drawable/selector_btn_text_main</item>
+        <item name="android:gravity">center</item>
+        <item name="android:minWidth">0dip</item>
+        <item name="android:paddingLeft">9dip</item>
+        <item name="android:paddingRight">9dip</item>
+    </style>
+
+    <style name="le_style_button_yellow_empty" parent="@style/Widget.AppCompat.Button.Borderless">
+        <item name="android:background">@drawable/selector_btn_circular_solid_yellow_empty</item>
+        <item name="android:textColor">@drawable/selector_btn_text_yellow_white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:minWidth">0dip</item>
+        <item name="android:paddingLeft">9dip</item>
+        <item name="android:paddingRight">9dip</item>
+    </style>
+    <!--半圆空心灰色按钮-->
+    <style name="le_style_button_second" parent="@style/Widget.AppCompat.Button.Borderless">
+        <item name="android:background">@drawable/selector_btn_circular_solid_second</item>
+        <item name="android:textColor">@drawable/selector_btn_text_second</item>
+        <item name="android:gravity">center</item>
+        <item name="android:minWidth">0dip</item>
+        <item name="android:paddingLeft">9dip</item>
+        <item name="android:paddingRight">9dip</item>
+    </style>
+
+    <!--选择城市椭圆白底按钮-->
+    <style name="le_style_button_white" parent="@style/Widget.AppCompat.Button.Borderless">
+        <item name="android:background">@drawable/selector_btn_circular_solid_white_second</item>
+        <item name="android:textColor">@drawable/selector_btn_text_second</item>
+        <item name="android:gravity">center</item>
+        <item name="android:minWidth">0dip</item>
+        <item name="android:paddingLeft">9dip</item>
+        <item name="android:paddingRight">9dip</item>
+    </style>
+
+    <!--选择椭圆白底按钮-->
+    <style name="le_style_button_white2" parent="@style/Widget.AppCompat.Button.Borderless">
+        <item name="android:background">@drawable/shape_circular_solid_third</item>
+        <item name="android:textColor">@drawable/selector_btn_text_second</item>
+        <item name="android:gravity">center</item>
+        <item name="android:minWidth">0dip</item>
+        <item name="android:paddingLeft">9dip</item>
+        <item name="android:paddingRight">9dip</item>
+    </style>
+
+    <!--方块实心橘色按钮-->
+    <style name="le_style_button_square_right_bottom" parent="@style/Widget.AppCompat.Button.Borderless">
+        <item name="android:background">@drawable/selector_btn_square_solid_right_bottom</item>
+        <item name="android:textColor">@color/le_color_white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:minWidth">0dip</item>
+        <item name="android:paddingLeft">9dip</item>
+        <item name="android:paddingRight">9dip</item>
+    </style>
+
+    <!--format="reference"-->
+    <!--<style name="le_borderless">-->
+    <!--<item name="android:background">@drawable/le_btn_borderless_material</item>-->
+    <!--<item name="stateListAnimator">@null</item>-->
+    <!--</style>-->
+
+    <style name="le_yellow_text">
+        <item name="android:background">@color/le_color_text_description</item>
+        <item name="android:paddingLeft">3dip</item>
+        <item name="android:paddingRight">3dip</item>
+        <item name="android:textColor">@color/le_base_background</item>
+        <item name="android:textSize">@dimen/leyou_text_size_6</item>
+    </style>
+
+    <style name="anim_bottom">
+        <item name="android:windowEnterAnimation">@anim/push_bottom_in</item>
+        <item name="android:windowExitAnimation">@anim/push_bottom_out</item>
+    </style>
+
+    <style name="anim_right">
+        <item name="android:windowEnterAnimation">@anim/slide_in_from_right</item>
+        <item name="android:windowExitAnimation">@anim/slide_out_to_right</item>
+    </style>
+
+    <style name="button_bg_text_style" parent="le_style_button_square_default">
+        <item name="android:textSize">14dip</item>
+        <item name="android:clickable">true</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="public_button_bg_style">
+        <item name="android:textSize">@dimen/leyou_text_size_3</item>
+        <item name="android:clickable">true</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@drawable/button_text_selector</item>
+        <item name="android:background">@drawable/selector_public_button</item>
+        <item name="android:borderlessButtonStyle">?android:attr/borderlessButtonStyle</item>
+    </style>
+
+    <!--默认的ListView样式-->
+    <style name="default_list_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:cacheColorHint">#00000000</item>
+        <item name="android:divider">#dddddd</item>
+        <item name="android:dividerHeight">1px</item>
+        <item name="android:listSelector">#00000000</item>
+        <item name="android:scrollbars">none</item>
+    </style>
+
+    <style name="default_list_style_light">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:cacheColorHint">#00000000</item>
+        <item name="android:divider">#eeeeee</item>
+        <item name="android:dividerHeight">1px</item>
+        <item name="android:listSelector">#00000000</item>
+        <item name="android:scrollbars">none</item>
+    </style>
+
+    <style name="style_list_default_with_divider_padding_left">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:cacheColorHint">#00000000</item>
+        <item name="android:divider">@drawable/space_divider_with_padding_left</item>
+        <item name="android:dividerHeight">1px</item>
+        <item name="android:listSelector">#00000000</item>
+        <item name="android:scrollbars">none</item>
+    </style>
+
+    <style name="WarpLinearLayoutDefault">
+        <item name="on_gravity">left</item>
+        <item name="horizontal_space">20dp</item>
+        <item name="vertical_space">20dp</item>
+        <item name="is_full">false</item>
+        <item name="max_line">0</item>
+    </style>
+
+    <style name="login_edittext_style">
+        <item name="met_floatingLabel">normal</item>
+        <item name="met_primaryColor">@color/le_color_bg_primary</item>
+        <item name="met_underlineColor">@color/le_color_line</item>
+        <item name="android:textColor">@color/le_color_text_primary</item>
+        <item name="met_clearButton">false</item>
+        <item name="met_floatingLabelTextColor">@color/le_color_text_primary</item>
+        <item name="met_floatingLabelTextSize">@dimen/leyou_text_size_6</item>
+    </style>
+
+    <!--半圆实心黄色按钮-->
+    <style name="le_style_seckill_yellow" parent="@style/Widget.AppCompat.Button.Borderless">
+        <item name="android:background">@drawable/selector_btn_circular_seckill_yellow</item>
+        <item name="android:textColor">@color/le_color_white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:minWidth">0dip</item>
+        <item name="android:paddingLeft">9dip</item>
+        <item name="android:paddingRight">9dip</item>
+    </style>
+
+</resources>

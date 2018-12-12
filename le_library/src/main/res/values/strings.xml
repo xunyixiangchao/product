@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">乐友</string>
+    <!--apptrackid-->
+    <item name="tag_99" type="id"></item>
+
+    <item name="booking_form_id" type="id"></item>
+    <item name="booking_form_type" type="id"></item>
+</resources>

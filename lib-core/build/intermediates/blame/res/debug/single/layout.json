@@ -1,0 +1,290 @@
+[
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_loading_layout.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\res\\layout\\adapter_loading_layout.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\frame_dialog_progress_hub_layout.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\res\\layout\\frame_dialog_progress_hub_layout.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\logwatch_float_view.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\res\\layout\\logwatch_float_view.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\frame_navigation_title_layout.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\res\\layout\\frame_navigation_title_layout.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\frame_basic_expand_layout.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\res\\layout\\frame_basic_expand_layout.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\frame_navigation_layout.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\res\\layout\\frame_navigation_layout.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_viewpager_tableview_indicator_item.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\res\\layout\\adapter_viewpager_tableview_indicator_item.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\frame_root_layout.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\res\\layout\\frame_root_layout.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\frame_dialog_update_layout.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\res\\layout\\frame_dialog_update_layout.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\frame_dialog_alert_hub_layout.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\res\\layout\\frame_dialog_alert_hub_layout.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\logwatch_content_btn.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\res\\layout\\logwatch_content_btn.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\frame_bottom_navigation_button.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\res\\layout\\frame_bottom_navigation_button.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\frame_navigation_title_button_layout.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\res\\layout\\frame_navigation_title_button_layout.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_logwatcher_item.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\res\\layout\\adapter_logwatcher_item.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_base_layout.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\res\\layout\\dialog_base_layout.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\quickaction_vertical.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\res\\layout\\quickaction_vertical.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_loading_complate_layout.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\res\\layout\\adapter_loading_complate_layout.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\frame_navigation_title_left_button.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\res\\layout\\frame_navigation_title_left_button.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\frame_navigation_title_image_layout.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\res\\layout\\frame_navigation_title_image_layout.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_listview_empty_layout.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\res\\layout\\adapter_listview_empty_layout.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\action_item_horizontal.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\res\\layout\\action_item_horizontal.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_loading_tap_next_layout.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\res\\layout\\adapter_loading_tap_next_layout.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\frame_main_layout.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\res\\layout\\frame_main_layout.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\frame_viewpager_table_host_layout.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\res\\layout\\frame_viewpager_table_host_layout.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\logwatch_float_content_view_item.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\res\\layout\\logwatch_float_content_view_item.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\logwatch_float_content_view.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\res\\layout\\logwatch_float_content_view.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\activity_logwatcher_layout.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\res\\layout\\activity_logwatcher_layout.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "D:\\LeyouGitWorkspace\\leyou-shop-18118\\leyou-app-shop\\Library\\lib-core\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.0\\res\\layout\\design_layout_snackbar_include.xml"
+    }
+]

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--<solid android:color="@color/le_transparent" />-->
+
+    <corners android:radius="20px" />
+
+    <padding
+        android:bottom="1dp"
+        android:left="1dp"
+        android:right="1dp"
+        android:top="1dp" />
+    <!--矩形的边线  -->
+    <stroke
+        android:width="1px"
+        android:color="@color/le_color_bg_primary" />
+
+    <!-- 矩形的内部颜色，这里设置成白色，即空心 -->
+    <!--<gradient-->
+        <!--android:endColor="@color/le_color_bg_promotion"-->
+        <!--android:startColor="@color/le_color_bg_promotion" />-->
+</shape>

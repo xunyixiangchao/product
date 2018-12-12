@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:id="@+id/layout_homepage_main"
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_alignParentTop="true"
+        android:layout_weight="1"
+        android:orientation="vertical" />
+
+    <View
+        android:id="@+id/line_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="1px" />
+
+    <LinearLayout
+        android:id="@+id/layout_navigation_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:gravity="bottom"
+        android:orientation="horizontal">
+
+        <!--<include-->
+        <!--android:id="@+id/button_bottom1"-->
+        <!--layout="@layout/frame_bottom_navigation_button"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_weight="1" />-->
+
+        <!--<include-->
+        <!--android:id="@+id/button_bottom2"-->
+        <!--layout="@layout/frame_bottom_navigation_button"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_weight="1" />-->
+
+        <!--<include-->
+        <!--android:id="@+id/button_bottom3"-->
+        <!--layout="@layout/frame_bottom_navigation_button"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_weight="1" />-->
+
+        <!--<include-->
+        <!--android:id="@+id/button_bottom4"-->
+        <!--layout="@layout/frame_bottom_navigation_button"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_weight="1" />-->
+
+        <!--<include-->
+        <!--android:id="@+id/button_bottom5"-->
+        <!--layout="@layout/frame_bottom_navigation_button"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_weight="1" />-->
+
+    </LinearLayout>
+
+</LinearLayout>

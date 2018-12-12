@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="leyou_text_size_0">24dip</dimen>
+    <dimen name="leyou_text_size_1">23dip</dimen>
+    <dimen name="leyou_text_size_2">16dip</dimen>
+    <dimen name="leyou_text_size_3">14.4dip</dimen>
+    <dimen name="leyou_text_size_4">13.44dip</dimen>
+    <dimen name="leyou_text_size_5">12.48dip</dimen>
+    <dimen name="leyou_text_size_6">11.52dip</dimen>
+    <dimen name="leyou_text_size_7">10.56dip</dimen>
+    <dimen name="leyou_text_size_8">9.6dp</dimen>
+
+    <!--<dimen name="leyou_size_22px">10.56dp</dimen>-->
+    <!--<dimen name="leyou_size_24px">11.52dp</dimen>-->
+    <!--<dimen name="leyou_text_size_5">12.48dp</dimen>-->
+    <!--<dimen name="leyou_text_size_4">13.44dp</dimen>-->
+    <!--<dimen name="leyou_text_size_3">14.4dp</dimen>-->
+    <dimen name="leyou_size_36px">17.28dp</dimen>
+    <dimen name="leyou_size_66px">31.68dp</dimen>
+
+
+    <dimen name="navigation_bottom_height">47dip</dimen>
+    <dimen name="table_host_height">30.72dp</dimen>
+
+    <!--默认间隔-->
+    <dimen name="default_layout_padding">10dip</dimen>
+    <!--<dimen name="default_divider_padding">6.66dip</dimen>-->
+    <!--<dimen name="default_layout_padding">10dip</dimen>-->
+
+    <!-- MaterialEditText -->
+    <dimen name="default_padding_top">8dp</dimen>
+    <dimen name="default_padding_bottom">8dp</dimen>
+    <dimen name="inner_padding_left">0dp</dimen>
+    <dimen name="inner_padding_right">0dp</dimen>
+    <dimen name="floating_label_text_size">12sp</dimen>
+    <dimen name="bottom_text_size">12sp</dimen>
+    <dimen name="inner_components_spacing">8dp</dimen>
+    <dimen name="bottom_ellipsis_height">4dp</dimen>
+</resources>

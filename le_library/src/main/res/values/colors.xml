@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--基本颜色start-->
+    <color name="le_color_white">#ffffff</color>
+    <color name="le_color_black">#000000</color>
+    <color name="le_transparent">#00000000</color>
+    <!--end............................................................................-->
+
+    <!--背景颜色start....................................................................-->
+    <color name="le_base_background">#f3f5f7</color>
+    <color name="le_color_bg_primary">#ff5000</color>
+    <color name="le_color_basic_1">#fac800</color>
+    <color name="le_color_basic_2">#fff7d5</color>
+    <color name="le_color_basic_3">#9664dc</color>
+
+    <color name="le_color_bg_gray_light_1">#fafafa</color>
+    <color name="le_color_bg_gray_light_2">#f5f5f5</color>
+    <color name="le_color_bg_gray_light">#f2f2f2</color>
+    <color name="le_color_bg_gray">#cacaca</color>
+
+    <color name="a">#886400</color>
+    <!--end............................................................................-->
+
+    <!--一般字体颜色start-->
+    <color name="le_color_text_primary">#333333</color>
+    <color name="le_color_text_secondary">#666666</color>
+    <color name="le_color_text_tertiary">#999999</color>
+    <color name="le_color_text_hint">#cacaca</color><!--edit hint文字-->
+    <color name="le_color_text_hint_2">#dddddd</color><!--edit hint文字-->
+
+    <color name="le_color_text_white">#ffffff</color>
+    <color name="le_color_text_accent">#ff5000</color><!--突出显示-->
+    <color name="le_color_text_warn">#fab400</color><!--提醒文字-->
+
+    <color name="le_color_text_151515">#151515</color>
+    <!--end............................................................................-->
+
+    <!--分割线颜色start-->
+    <color name="le_color_line_list">#eeeeee</color>
+    <color name="le_color_line">#dddddd</color>
+
+    <color name="le_color_stroke_gray">#666666</color>
+    <color name="le_color_stroke_gray_light">#dddddd</color>
+    <!--end............................................................................-->
+
+    <!--其他背景色start-->
+    <color name="le_coupon_price_color">#ff5a6a</color>
+    <color name="le_baby_dress_background">#fc5677</color>
+    <color name="le_logined_head_color">#f2622e</color>
+    <color name="le_color_text_description">#ff9600</color>
+    <color name="le_button_bg_pressed">#cc8d00</color>
+    <color name="yellow_bg">#f4b939</color>
+    <color name="le_logined_background">#fff4dd</color>
+    <color name="le_color_bg_promotion">#FFFAE6</color>
+    <color name="navpage">#ffE1E8EB</color>
+    <color name="white_200_alpha">#c8ffffff</color>
+    <color name="le_button_hollow_text_pressed">#cccccc</color>
+    <color name="le_color_text_gray">#cacaca</color>
+    <color name="le_button_hollow2_solid_pressed">#7a7a7a</color>
+    <color name="le_base_gray_translucent">#80969696</color>
+    <color name="le_button_pressed">#33000000</color>
+    <color name="le_text_violet">#aa82ff</color>
+    <color name="le_text_express">#0096FF</color>
+    <!--end............................................................................-->
+
+</resources>
